@@ -1,0 +1,67 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #00ffcc;
+    text-align: center;
+}
+
+.hero {
+    background: linear-gradient(90deg, #000, #220022, #000);
+    padding: 50px 20px;
+    font-size: 24px;
+    text-shadow: 0px 0px 10px #ff00ff;
+    border-bottom: 4px solid #ffcc00;
+    color: #338bff;
+}
+
+h1, h2 {
+    color: #ff3366;
+    text-shadow: 3px 3px 0px #00ffcc;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px auto;
+    max-width: 80%;
+    font-family: 'Courier New', monospace;
+    color: #ffcc00;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ff00ff;
+}
+
+.project {
+    border: 2px dashed #ff00ff;
+    padding: 10px;
+    margin: 10px auto;
+    width: 60%;
+    background: rgba(255, 0, 255, 0.1);
+    box-shadow: 0px 0px 15px #ff00ff;
+    color: #00ffcc;
+}
+
+footer {
+    background: #220022;
+    padding: 20px;
+    margin-top: 20px;
+    border-top: 4px solid #ffcc00;
+    color: #ff3366;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #ff00ff;
+}
